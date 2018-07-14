@@ -1,0 +1,2 @@
+# stylelint-example
+stylelint
